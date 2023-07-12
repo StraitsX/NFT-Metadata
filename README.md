@@ -29,7 +29,7 @@ The repository is structured as follows:
     └── ...
 ```
 
-Each project has its own directory within the repository. The NFT metadata files (`nft1.json`, `nft2.json`, etc.) and their associated images (`img1.png`, etc.) are stored within their respective project directories. This organization allows for better categorization and management of NFTs based on different projects.
+Each project has its own directory within the repository. The NFT metadata files (`nft1.json`, `nft2.json`, etc.) and their associated images (`nft1.png`, etc.) are stored within their respective project directories. This organization allows for better categorization and management of NFTs based on different projects.
 
 ## Getting Started
 
