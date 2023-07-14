@@ -1,0 +1,11 @@
+{
+  "description": "Hero NFT",
+  "name": "SG Hero Merchant series 2023",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Cultural - Merch"
+    }
+  ],
+  "image": "https://stg-waffle-cdn01.stg-grabpay.com/test/test_pic2.png"
+}
