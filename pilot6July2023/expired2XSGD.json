@@ -1,0 +1,19 @@
+{
+  "name": "Grab expired voucher",
+  "description": "Collectible",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVFLK33mjxticHyQbVHeoz8jSsPoAoTvvKwyJZHxPaLci/8.png",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "0"
+    },
+    {
+      "trait_type": "IssueValue",
+      "value": "2"
+    },
+    {
+      "trait_type": "ExpiryTime",
+      "value": "2024-05-23T21:00:00+08:00"
+    }
+  ]
+}
