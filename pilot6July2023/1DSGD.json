@@ -1,0 +1,19 @@
+{
+  "name": "UOB1DSGD",
+  "description": "1$ UOB DSGD test voucher",
+  "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/heroNFT2023SEP/images/Group%202027.png",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "1"
+    },
+    {
+      "trait_type": "IssueValue",
+      "value": "1"
+    },
+    {
+      "trait_type": "ExpiryTime",
+      "value": "2024-08-23T21:00:00+08:00"
+    }
+  ]
+}
