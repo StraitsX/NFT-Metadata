@@ -1,7 +1,7 @@
 {
   "name": "Grab5XSGD",
   "description": "5$ SGD test voucher",
-  "image": "https://github.com/StraitsX/NFT-Metadata/blob/main/pilot6July2023/images/PBM-$5-11-Aug.png",
+  "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/pilot6July2023/images/PBM-%245-11-Aug.png",
   "attributes": [
     {
       "trait_type": "Value",
