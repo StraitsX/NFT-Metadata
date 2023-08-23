@@ -1,11 +1,6 @@
 {
-  "description": "Hero NFT",
-  "name": "SG Hero Merchant series 2023",
-  "attributes": [
-    {
-      "trait_type": "Base",
-      "value": "Cultural - Art"
-    }
-  ],
-  "image": "https://gateway.pinata.cloud/ipfs/QmXxhhkzwDFXc9nLu9NerSBPrFRb8bwxGpRXqwheXD2zyv/130%20-%20Copy.png"
+  "description": "You've unlocked your unique digital collectible! These aren't just images; they're exclusive souvenirs, tokens of your adventure. Collect all four at different stores across Singapore",
+  "name": "Mount Faber Collection",
+  "attributes": [],
+  "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/heroNFT2023SEP/images/4.png"
 }

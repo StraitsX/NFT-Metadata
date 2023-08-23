@@ -1,11 +1,6 @@
 {
-  "description": "Hero NFT",
-  "name": "SG Hero Merchant series 2023",
-  "attributes": [
-    {
-      "trait_type": "Base",
-      "value": "Cultural - Music"
-    }
-  ],
-  "image": "https://gateway.pinata.cloud/ipfs/Qmf5tLA3ggVbik3Qehuq8KEkYpze6jdNTk1YMidhKEr5Rh/image%20%282%29.png"
+  "description": "You've unlocked your unique digital collectible! These aren't just images; they're exclusive souvenirs, tokens of your adventure. Collect all four at different stores across Singapore",
+  "name": "Changi Airport Collection",
+  "attributes": [],
+  "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/heroNFT2023SEP/images/3.png"
 }

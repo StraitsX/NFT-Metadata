@@ -1,11 +1,6 @@
 {
-  "description": "Hero NFT",
-  "name": "SG Hero Merchant series 2023",
-  "attributes": [
-    {
-      "trait_type": "Base",
-      "value": "Cultural - Drinks"
-    }
-  ],
-  "image": "https://stg-waffle-cdn01.stg-grabpay.com/test/test_pic1.png"
+  "description": "You've unlocked your unique digital collectible! These aren't just images; they're exclusive souvenirs, tokens of your adventure. Collect all four at different stores across Singapore",
+  "name": "Marina Bay Collection",
+  "attributes": [],
+  "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/heroNFT2023SEP/images/1.png"
 }
