@@ -1,0 +1,19 @@
+{
+    "name": "S$1 SG Pitstop Voucher",
+    "description": "SG Pitstop vouchers are powered by XSGD and serves as a programmable and interoperable digital Singapore dollar on the blockchain. This $1 voucher can be redeemed at selected merchants around Singapore.",
+    "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/pilot6July2023/images/PBM-%241-11-Aug.png",
+    "attributes": [
+        {
+            "trait_type": "Value",
+            "value": "1"
+        },
+        {
+            "trait_type": "IssueValue",
+            "value": "1"
+        },
+        {
+            "trait_type": "ExpiryTime",
+            "value": "2023-08-23T12:00:00+08:00"
+        }
+    ]
+}
