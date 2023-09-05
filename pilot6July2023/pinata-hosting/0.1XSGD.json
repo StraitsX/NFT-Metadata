@@ -1,0 +1,19 @@
+{
+  "name": "0.1XSGD",
+  "description": "0.10$ SGD test voucher",
+  "image": "https://stxpilot6.mypinata.cloud/ipfs/QmXr1Ah9t6xkbggvBFBUWSbHjuisve4QqAZRLVuCSu4phq/PBM-$0.10-11-Aug.png",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "0.10"
+    },
+    {
+      "trait_type": "IssueValue",
+      "value": "0.10"
+    },
+    {
+      "trait_type": "ExpiryTime",
+      "value": "2025-05-23T21:00:00+08:00"
+    }
+  ]
+}
