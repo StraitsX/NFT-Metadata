@@ -1,0 +1,19 @@
+{
+    "name": "S$10 Amazon SFF Voucher",
+    "description": "This is a Amazon Escrow PBM Voucher.",
+    "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/pilot7Nov2023/images/amazon-pbm-draft.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Value",
+            "value": "0"
+        },
+        {
+            "trait_type": "IssueValue",
+            "value": "10"
+        },
+        {
+            "trait_type": "ExpiryTime",
+            "value": "2024-01-01T00:00:00+08:00"
+        }
+    ]
+}
