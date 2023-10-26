@@ -1,7 +1,7 @@
 {
-    "name": "S$10 Amazon SFF Voucher",
-    "description": "This is a Amazon Escrow PBM Voucher.",
-    "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/pilot7Nov2023/images/amazon-pbm-draft.jpeg",
+    "name": "S$10 Amazon x SFF Voucher",
+    "description": "This voucher is only valid for use on Amazon’s Project Orchid pilot for the Singapore FinTech Festival 2023. This voucher is non-transferrable and will expire on 17 November 2023. For more information, please visit https://www.amazon.sg/sff",
+    "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/pilot7Nov2023/images/SFF-Amazon-Sticker-Token-01.png",
     "attributes": [
         {
             "trait_type": "Value",
@@ -13,7 +13,7 @@
         },
         {
             "trait_type": "ExpiryTime",
-            "value": "2024-01-01T00:00:00+08:00"
+            "value": "2023-11-18T00:00:00+08:00"
         }
     ]
 }
