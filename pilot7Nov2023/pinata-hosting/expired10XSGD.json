@@ -1,7 +1,7 @@
 {
     "name": "S$10 Amazon x SFF Voucher",
     "description": "This voucher is only valid for use on Amazon’s Project Orchid pilot for the Singapore FinTech Festival 2023. This voucher is non-transferrable and will expire on 17 November 2023. For more information, please visit https://www.amazon.sg/sff",
-    "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/pilot7Nov2023/images/SFF-Amazon-Sticker-Token-01.png",
+    "image": "https://stxpilot6.mypinata.cloud/ipfs/QmQx1gu6dF28uaBRVoxuJajSwMR7kZ6si2mdcs9gJW8KhS",
     "attributes": [
         {
             "trait_type": "Value",
