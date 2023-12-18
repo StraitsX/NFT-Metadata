@@ -1,0 +1,19 @@
+{
+    "name": "S$0.10 SG Pitstop Voucher",
+    "description": "This $0.10 SG Pitstop voucher can be used at selected merchants around Singapore. This voucher is powered by XSGD, and is issued by StraitsX, as part of Project Orchid by MAS to explore the use cases of a programmable digital SGD.",
+    "image": "https://stxpilot6.mypinata.cloud/ipfs/QmQzd9xia7Sdi4aRPRsLNdGZLu67bBNSkWGC6nzwfjWJTU",
+    "attributes": [
+      {
+        "trait_type": "Value",
+        "value": "0.1"
+      },
+      {
+        "trait_type": "IssueValue",
+        "value": "0.1"
+      },
+      {
+        "trait_type": "ExpiryTime",
+        "value": "2024-06-30T23:59:59+08:00"
+      }
+    ]
+  }
