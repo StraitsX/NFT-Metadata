@@ -1,0 +1,27 @@
+{
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "description": "A Token-2022 stablecoin 1:1 pegged to the Singapore Dollar.",
+    "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/solanaToken-2022-2024AUG/images/XSGD-Logo.png",
+    "external_url": "https://straitsx.com/",
+    "attributes": [
+      {
+        "trait_type": "Token Standard",
+        "value": "Token-2022"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/solanaToken-2022-2024AUG/images/XSGD-Logo.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "token",
+      "creators": [
+        {
+          "address": "Cf3ZrASbYdvfNwGcdXU829iHS57rrqyVyVFnEFAGpUG9"
+        }
+      ]
+    }
+  }
