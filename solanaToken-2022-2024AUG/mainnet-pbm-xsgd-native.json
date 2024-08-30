@@ -1,0 +1,27 @@
+{
+    "name": "PBM XSGD",
+    "symbol": "PBM XSGD",
+    "description": "A Token-2022 token with transfer hook functionality enabled for enhanced transaction control.",
+    "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/solanaToken-2022-2024AUG/images/mainnet-pbm-xsgd.jpg",
+    "external_url": "https://straitsx.com/",
+    "attributes": [
+      {
+        "trait_type": "Token Standard",
+        "value": "Token-2022"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/solanaToken-2022-2024AUG/images/mainnet-pbm-xsgd.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "category": "token",
+      "creators": [
+        {
+          "address": "Cf3ZrASbYdvfNwGcdXU829iHS57rrqyVyVFnEFAGpUG9"
+        }
+      ]
+    }
+  }
