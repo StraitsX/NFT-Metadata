@@ -1,0 +1,16 @@
+{
+    "description": "Orbix PBM",
+    "name": "StraitsX Orbix PBM 2024",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Cultural - Food"
+      },
+      {
+        "trait_type": "Value",
+        "value": "0.01"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/StraitsX/NFT-Metadata/main/noahPBM/images/orbixPBM.png"
+  }
+  
