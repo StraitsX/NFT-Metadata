@@ -1,0 +1,11 @@
+{
+  "name": "StratisX Kudos Coin",
+  "description": "StratisX Kudos Coin",
+  "image": "https://raw.githubusercontent.com/straitsx/nft-metadata/main/kudosCoin/images/FA-KudosToken.png",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "1"
+    }
+  ]
+}
